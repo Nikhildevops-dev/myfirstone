@@ -1,3 +1,10 @@
 Azure provides all types of services developed by microsoft.
 hii everyone nice to meet you
 12456
+class Test
+{
+    public static void main(String []args)
+    {
+        System.out.println("My First Java Program.");
+    }
+};
